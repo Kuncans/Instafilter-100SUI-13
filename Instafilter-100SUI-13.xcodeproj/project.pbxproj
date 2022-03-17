@@ -11,6 +11,7 @@
 		956D7D0227E3E951007DBE4E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956D7D0127E3E951007DBE4E /* ContentView.swift */; };
 		956D7D0427E3E952007DBE4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 956D7D0327E3E952007DBE4E /* Assets.xcassets */; };
 		956D7D0727E3E952007DBE4E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 956D7D0627E3E952007DBE4E /* Preview Assets.xcassets */; };
+		956D7D0E27E3E95E007DBE4E /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956D7D0D27E3E95E007DBE4E /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		956D7D0127E3E951007DBE4E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		956D7D0327E3E952007DBE4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		956D7D0627E3E952007DBE4E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		956D7D0D27E3E95E007DBE4E /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				956D7D0127E3E951007DBE4E /* ContentView.swift */,
 				956D7D0327E3E952007DBE4E /* Assets.xcassets */,
 				956D7D0527E3E952007DBE4E /* Preview Content */,
+				956D7D0D27E3E95E007DBE4E /* ImagePicker.swift */,
 			);
 			path = "Instafilter-100SUI-13";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				956D7D0E27E3E95E007DBE4E /* ImagePicker.swift in Sources */,
 				956D7D0227E3E951007DBE4E /* ContentView.swift in Sources */,
 				956D7D0027E3E951007DBE4E /* Instafilter_100SUI_13App.swift in Sources */,
 			);
